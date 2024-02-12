@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalinmarinov1024
+- 👋 Hi, I’m @kalinmarinov1024, I have worked as an embedded C/C++ developer for a year at MMSolutions, then transitioned to Java, Spring Framework, Docker, Kubernets, Postgres and a lot more of cool technologies that shaped me.
 - 👀 I’m interested in all sorts of backend technologies and blockchain
 - 🌱 I’m currently learning Java, C, C++
 - 💞️ I’m looking to collaborate on personal development projects/ OSS
