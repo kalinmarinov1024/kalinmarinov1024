@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalinmarinov1024
-- 👀 I’m interested in all sorts of back end technologies and blockchains
+- 👀 I’m interested in all sorts of backend technologies and blockchain
 - 🌱 I’m currently learning Java, C, C++
-- 💞️ I’m looking to collaborate on personal development projects
+- 💞️ I’m looking to collaborate on personal development projects/ OSS
 - 📫 How to reach me - via linkedin: Kalin Marinov or e-mail: kalinmarinov99@gmail.com
 
 <!---
